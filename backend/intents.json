@@ -1,0 +1,176 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "hi", "hello", "hey", "hii", "hiii"],
+      "responses": ["Hello!", "Hi there!", "Hey! How can I help?"]
+    },
+
+    {
+      "tag": "services",
+      "patterns": ["What services do you offer?", "Services"],
+      "responses": ["We offer web development, AI solutions, and cloud services."]
+    },
+
+    {
+      "tag": "contact",
+      "patterns": ["How to contact you?", "Contact details"],
+      "responses": ["You can email us at support@company.com"]
+    },
+
+    {
+      "tag": "hours",
+      "patterns": ["Working hours?", "When are you open?"],
+      "responses": ["We are open from 9 AM to 6 PM, Monday to Friday."]
+    },
+    {
+      "tag": "bye",
+      "patterns": ["Bye", "Goodbye"],
+      "responses": ["Goodbye!", "Have a great day!"]
+    },
+     
+    {
+      "tag": "pricing",
+      "patterns": ["What is the price?", "Cost of service", "Pricing details"],
+      "responses": ["Pricing depends on the service. Please contact support for details."]
+    },
+    {
+      "tag": "help",
+      "patterns": ["I need help", "Help me", "Can you assist me?"],
+      "responses": ["Sure! Please tell me your issue, I’ll try to help."]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "Thx"],
+      "responses": ["You're welcome!", "Happy to help!"]
+    },
+    {
+      "tag": "identity",
+      "patterns": ["Who created you?", "Who made you?", "Your developer"],
+      "responses": ["I was created as part of an AI internship project."]
+    },
+    {
+      "tag": "features",
+      "patterns": ["What can you do?", "Your features", "How can you help me"],
+      "responses": ["I can answer queries, provide information, and assist users instantly."]
+    },
+    {
+      "tag": "location",
+      "patterns": ["Where are you located?", "Company location"],
+      "responses": ["We operate online and serve clients globally."]
+    },
+    
+    {
+      "tag": "career",
+      "patterns": ["Do you have job openings?", "Careers", "Jobs available"],          
+      "responses": ["You can check our careers page for current job openings."]
+    },
+    {
+      "tag": "internship",
+      "patterns": ["Do you offer internships?", "Internship opportunities"],
+      "responses": ["Yes, we offer internships. Please check our website for details."]
+    },
+    {
+      "tag": "project_status",
+      "patterns": ["Check my project status", "Project update"],
+      "responses": ["Please provide your project ID to check the status."]
+    },
+    {
+      "tag": "payment_methods",
+      "patterns": ["How can I pay?", "Payment options"],
+      "responses": ["We accept credit cards, UPI, and bank transfers."]
+    },
+    {
+      "tag": "refund_policy",
+      "patterns": ["Refund policy", "Can I get a refund?"],
+      "responses": ["Refunds are processed based on our terms and conditions."]
+    },
+    {
+      "tag": "appointment",
+      "patterns": ["Book appointment", "Schedule meeting"],
+      "responses": ["Sure, please share your preferred time and date."]
+    },
+    {
+      "tag": "demo_request",
+      "patterns": ["Can I get a demo?", "Request demo"],
+      "responses": ["Yes, we can arrange a demo. Please contact our team."]
+    },
+    {
+      "tag": "newsletter",
+      "patterns": ["Subscribe newsletter", "Get updates"],
+      "responses": ["You can subscribe to our newsletter via our website."]
+    },
+    { 
+      "tag": "feedback",
+      "patterns": ["Give feedback", "I have feedback"],
+      "responses": ["We appreciate your feedback! Please share your thoughts."]
+    },
+    { 
+      "tag": "complaint",
+      "patterns": ["I want to complain", "Register complaint"],
+      "responses": ["We’re sorry for the inconvenience. Please describe your issue."]
+    },
+    {
+      "tag": "technical_issue",
+      "patterns": ["App not working", "Facing technical issue"],
+      "responses": ["Please try restarting or contact support for assistance."]
+    },
+    {
+      "tag": "account_help",
+      "patterns": ["Account issue", "Login problem"],
+      "responses": ["Please ensure your credentials are correct or reset your password."]
+    },
+    {
+      "tag": "reset_password",
+      "patterns": ["Forgot password", "Reset my password"],
+      "responses": ["Click on 'Forgot Password' on the login page to reset it."]
+    },
+    {
+      "tag": "security",
+      "patterns": ["Is my data safe?", "Security policy"],
+      "responses": ["We follow strict security measures to protect your data."]
+    },
+    {
+      "tag": "terms",
+      "patterns": ["Terms and conditions", "User agreement"],
+      "responses": ["You can view our terms and conditions on our website."]
+    },
+    {
+      "tag": "privacy",
+      "patterns": ["Privacy policy", "How you use my data"],
+      "responses": ["We respect your privacy and follow strict data policies."]
+    
+    },
+    {
+      "tag": "upgrade",
+      "patterns": ["Upgrade plan", "Premium features"],
+      "responses": ["You can upgrade your plan from your account dashboard."]
+    },
+    {
+      "tag": "cancel_service",
+      "patterns": ["Cancel service", "Stop subscription"],
+      "responses": ["You can cancel your subscription anytime from settings."]
+    },
+    {
+      "tag": "offers",
+      "patterns": ["Any offers?", "Discounts available"],
+      "responses": ["We occasionally provide offers. Stay tuned!"]
+    },
+    {
+      "tag": "working_process",
+      "patterns": ["How do you work?", "Process of service"],
+      "responses": ["We follow a structured process from requirement to delivery."]
+    },
+    {
+      "tag": "response_time",
+      "patterns": ["How fast do you respond?", "Response time"],
+      "responses": ["We usually respond within a few minutes."]
+    },
+    {
+      "tag": "languages",
+      "patterns": ["What languages do you support?", "Language options"],
+      "responses": ["Currently, we support English. More languages coming soon."]
+    }
+ ]
+  
+}

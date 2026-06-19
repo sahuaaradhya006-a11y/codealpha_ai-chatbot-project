@@ -1,0 +1,7 @@
+hi -> Sorry, I don't understand. Please contact support.
+Hi -> Hello!
+hi -> Hi there!
+hi -> Hello!
+price -> Sorry, I don't understand. Please contact support.
+What services do you offer? -> We offer web development, AI solutions, and cloud services.
+hello -> Hey! How can I help?
