@@ -12,3 +12,9 @@ This is an AI-powered chatbot built using Python and Machine Learning.
 - Python
 - Flask
 - HTML, CSS, JavaScript
+
+
+## 📸 Project Demo
+Here is a preview of the AI chatbot interface
+
+![AI Chatbot UI](Docs/ai_chatbot_project.png)
