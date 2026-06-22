@@ -5,3 +5,7 @@ hi -> Hello!
 price -> Sorry, I don't understand. Please contact support.
 What services do you offer? -> We offer web development, AI solutions, and cloud services.
 hello -> Hey! How can I help?
+hi -> Hi there!
+hi -> Hello!
+["Who created you?", "Who made you?", "Your developer" -> I was created as part of an AI internship project.
+hi -> Hi there!

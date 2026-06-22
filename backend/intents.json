@@ -46,8 +46,9 @@
     },
     {
       "tag": "identity",
-      "patterns": ["Who created you?", "Who made you?", "Your developer"],
-      "responses": ["I was created as part of an AI internship project."]
+      "patterns":["Who created you?", "Who made you?", "Your developer"],
+      "responses": ["I was created as part of an AI internship project"]
+      
     },
     {
       "tag": "features",
